@@ -1,7 +1,7 @@
 # Open In Powershell
 ## Netbeans module
 
-My first contribution to Netbeans comunnity
+My first contribution to Netbeans community
 
 ### Description
 
