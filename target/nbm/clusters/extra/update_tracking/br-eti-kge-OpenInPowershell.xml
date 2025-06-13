@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="br.eti.kge.OpenInPowershell">
+    <module_version install_time="1749842982798" last="true" origin="installer" specification_version="1.0">
+        <file crc="357596648" name="config/Modules/br-eti-kge-OpenInPowershell.xml"/>
+        <file crc="506821996" name="modules/br-eti-kge-OpenInPowershell.jar"/>
+        <file crc="2359745798" name="update_tracking/br-eti-kge-OpenInPowershell.xml"/>
+    </module_version>
+</module>
